@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models: too large for GitHub; each teammate downloads locally (see README)
+data/raw/*
+data/processed/*
+models/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!models/.gitkeep
+
+# Kaggle credentials: never commit
+kaggle.json
+.env
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
