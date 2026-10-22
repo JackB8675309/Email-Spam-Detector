@@ -11,7 +11,8 @@ venv/
 # Data & models: too large for GitHub; each teammate downloads locally (see README)
 data/raw/*
 data/processed/*
-models/*
+models/gaussian-naive-bayes/gitkeep*
+models/knn-classifier/gitkeep*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 !models/.gitkeep
