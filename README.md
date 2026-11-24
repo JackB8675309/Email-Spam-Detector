@@ -11,10 +11,13 @@ Libraries to have installed:
 4. sklearn
 
 To run the models from root folder:
+
 Classification-Tree
+
     python ./models/classification-trees/tree.py
 
 Gaussian Naive-Bayes
+
     python ./models/gaussian-naive-bayes/GNB.oy
 
 Within these files are commented out lines that generated graphs for the different models on their initial versions. Those can be found under the reports/figures folder.
