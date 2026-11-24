@@ -16,8 +16,12 @@ Classification-Tree
 
     python ./models/classification-trees/tree.py
 
-Gaussian Naive-Bayes
+Histogram Gradient Boosting Model
 
-    python ./models/gaussian-naive-bayes/GNB.oy
+    python .models/GradientBoostingClassifier/HGBC.py
 
 Within these files are commented out lines that generated graphs for the different models on their initial versions. Those can be found under the reports/figures folder.
+
+
+DataSet:
+https://www.kaggle.com/datasets/ethancratchley/email-phishing-dataset/data
