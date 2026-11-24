@@ -1,7 +1,7 @@
 # Luke Uhlir
 # 10/19/2026
-# test.py
-# a script to get the mock-up of what we need done
+# knn.py
+# runs a basic k nearest neighbors model
 
 import pandas as pd
 import numpy as np
