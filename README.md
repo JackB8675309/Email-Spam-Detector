@@ -1,7 +1,7 @@
 Luke Uhlir
-91131130
+NUID:
 luhlir4@huskers.unl.edu
 
 Jack Bettey
-64375263
+NUID:
 jbettey2@huskers.unl.edu
